@@ -21,10 +21,10 @@ Heart Disease Prediction & Data Preprocessing
 ### Scatter Matrix
 ![Scatter Matrix](images/scatter_matrix.png)
 
-# 🫀 Heart Disease Prediction – Feature Engineering & Data Preprocessing  
+# 🫀 Heart Disease Prediction – Feature Engineering & Data Preprocessing AnalystLab Africa
 AnalystLab Africa | Data Science Internship | Week 2
 
-## 📌 Project Overview
+## 📌Project Overview
 This project prepares the Heart Disease Prediction dataset for machine learning by performing comprehensive feature engineering and data preprocessing.  
 The goal is to transform raw clinical data into a clean, encoded, scaled, and feature-selected dataset ready for predictive modelling.
 
