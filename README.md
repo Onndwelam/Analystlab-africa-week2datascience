@@ -21,6 +21,9 @@ Heart Disease Prediction & Data Preprocessing
 ### Scatter Matrix
 ![Scatter Matrix](images/scatter_matrix.png)
 
+### Top 10 Feature Importances
+![Feature Importance](images/feature_importance.png)
+
 # 🫀 Heart Disease Prediction – Feature Engineering & Data Preprocessing AnalystLab Africa
 AnalystLab Africa | Data Science Internship | Week 2
 
